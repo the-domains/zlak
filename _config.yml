@@ -1,0 +1,28 @@
+name: Zlak
+favicon: null
+layout_spectrum: 0.5239146545063704
+typography_spectrum: 0.43611730518750846
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.21061142114922404
+  lightness: 0.4484138728585094
+  saturation: 0.8552811883855611
+  rhythmicContrast: 0.4807859866414219
+purpose: []
